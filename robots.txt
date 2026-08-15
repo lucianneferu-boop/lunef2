@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://waremetry.co.uk/sitemap.xml
